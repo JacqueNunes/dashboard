@@ -52,7 +52,7 @@ Um dashboard totalmente animado .
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://jacquenunes.github.io/cartao-de-embarque/).
+Você pode visualizar o layout do projeto através [DESSE LINK](jacquenunes.github.io/dashborad/).
 
 ## :memo: Licença
 
